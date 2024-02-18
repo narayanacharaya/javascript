@@ -6,4 +6,4 @@ function outerFunction() {
 
 outerFunction();
 
-console.log("Can also be accessed from outside the function:", innerMessage);
+console.log("Can also be accessed from outside the function:", innerMessage); // this will give eroor
